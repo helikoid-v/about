@@ -19,3 +19,10 @@ main > h2 {
   text-align: center;
   font-size: 25px;
 }
+
+div {
+  text-align: center;
+  color: #333333;
+  font-family: sans-serif;
+  margin-top: 20pt;
+}
